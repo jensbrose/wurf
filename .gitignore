@@ -1,0 +1,7 @@
+*~
+*.pyc
+.ipynb_checkpoints
+.empty
+Jupyter_notebooks.txt
+Jupyter_notebooks_Struktur.txt
+nbgitpuller.html
